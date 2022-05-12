@@ -1,0 +1,32 @@
+/* Estilo ID clase */
+.body{
+    background: darksalmon;
+    width: 140%;
+    text-decoration: underline;
+    text-decoration: brown;
+}
+.contenedor{
+    width:90%;
+    margin:auto;
+}
+.caja-uno{
+    background:chocolate;
+    color:antiquewhite;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:double;
+}
+.caja-dos{
+    background: lightcoral;
+    color:black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: overline;
+}
+.caja-tres{
+    background:slategrey;
+    color:wheat;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: dotted;
+}

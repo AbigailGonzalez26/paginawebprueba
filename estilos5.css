@@ -1,0 +1,43 @@
+/* enlaces */
+/*contendedores */
+
+body{
+    background:lightblue;
+}
+
+contenedor2{
+    width: 90%;
+    margin: auto; 
+}
+
+.cajitas{
+   background:hotpink;
+   color: black;
+   font-size: 25px;
+   padding-left: 35px;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   border-top:15px blue solid;
+   border-right:20px green solid;
+   border-bottom:10px orangered solid;
+   border-left:16px yellow solid;
+
+}
+a{
+    font-size: 55px;
+    text-decoration: underline;
+    background-color: mediumvioletred;
+    padding: 20px;
+}
+a:link{
+    color:lightgrey;
+}
+a:visited{
+    color:hotpink;
+}
+a:hover{
+    background-color: lightskyblue;
+    color:orchid;
+
+}

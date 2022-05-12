@@ -1,0 +1,14 @@
+/* selector ID clase */
+body{
+    background: cornflowerblue;
+}
+.contenedor{
+    width:90%;
+    margin: auto;
+}
+.caja{
+    background: firebrick;
+    color:antiquewhite;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}

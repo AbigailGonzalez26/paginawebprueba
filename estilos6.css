@@ -1,0 +1,13 @@
+/* Estilo ID clase */
+img{
+    width: 15%;
+    align-items: center;
+}
+body{
+    background: darksalmon;
+}
+h1{
+  text-align: center;
+  text-decoration:double;
+  font-family: cursive;
+}

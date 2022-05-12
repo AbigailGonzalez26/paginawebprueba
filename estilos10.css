@@ -1,0 +1,14 @@
+body{
+    background-color:orchid;
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    width: 8px;
+    height:none;
+}
+.row{
+    display:flex;
+    padding: 0px;
+    flex-wrap: wrap;
+}

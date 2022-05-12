@@ -1,0 +1,38 @@
+/* modelo caja */
+
+body {
+    background: lightblue;
+}
+.contenedor{
+    width: 90%;
+    margin: auto;
+}
+.caja-uno{
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: double;
+   background: turquoise;
+   color: black;
+   font-size: 25px;
+   padding-left: 35px;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   border-top:15px green solid;
+   border-right:20px pink solid;
+   border-bottom:10px orangered solid;
+   border-left:16px palevioletred solid;
+
+}
+.caja-dos{
+    background:deeppink;
+   color: black;
+   font-size: 25px;
+   padding-left: 35px;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   border-top:15px blue solid;
+   border-right:20px lightgreen solid;
+   border-bottom:10px blue solid;
+   border-left:16px lightgreen solid;
+}
